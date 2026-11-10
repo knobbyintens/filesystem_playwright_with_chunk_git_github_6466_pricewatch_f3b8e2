@@ -1,0 +1,72 @@
+{
+  "ledger_version": 2,
+  "reviewed_through": "2026-08-14",
+  "snapshot_ref": "snapshot-a",
+  "currency": "USD",
+  "items": [
+    {
+      "sku": "OFC-1182",
+      "title": "Aurora Ergonomic Mesh Chair",
+      "seller": "Northline Direct",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-1182.html",
+      "last_price": 219.0,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-2046",
+      "title": "Cascade Double-Wall Insulated Carafe 1.9L",
+      "seller": "Harbor Housewares",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-2046.html",
+      "last_price": 34.5,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-3311",
+      "title": "Verity 27-inch QHD Monitor",
+      "seller": "Vantage Display Co.",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-3311.html",
+      "last_price": 309.0,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-4107",
+      "title": "Granite Heavy-Duty Shelving Unit 72\"",
+      "seller": "Iron Ridge Storage",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-4107.html",
+      "last_price": 189.0,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-5219",
+      "title": "Meridian Sit-Stand Desk Converter",
+      "seller": "Ergo Works",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-5219.html",
+      "last_price": 159.0,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-6023",
+      "title": "Lumen LED Desk Lamp",
+      "seller": "Brightline Goods",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-6023.html",
+      "last_price": 42.0,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-7340",
+      "title": "Pinnacle Laminator A3",
+      "seller": "Northline Direct",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-7340.html",
+      "last_price": 118.0,
+      "status": "ok"
+    },
+    {
+      "sku": "OFC-8055",
+      "title": "Summit Label Printer 300dpi",
+      "seller": "Vantage Display Co.",
+      "url": "https://htmlpreview.github.io/?https://github.com/knobbyintens/filesystem_playwright_with_chunk_git_github_6466_pricewatch_f3b8e2/blob/main/catalog/ofc-8055.html",
+      "last_price": 96.0,
+      "status": "ok"
+    }
+  ]
+}

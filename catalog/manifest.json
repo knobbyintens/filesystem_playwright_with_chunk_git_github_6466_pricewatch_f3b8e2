@@ -1,0 +1,73 @@
+{
+  "revision": "B",
+  "products": [
+    {
+      "sku": "OFC-1182",
+      "path": "catalog/ofc-1182.html"
+    },
+    {
+      "sku": "OFC-2046",
+      "path": "catalog/ofc-2046.html"
+    },
+    {
+      "sku": "OFC-3311",
+      "path": "catalog/ofc-3311.html"
+    },
+    {
+      "sku": "OFC-4107",
+      "path": "catalog/ofc-4107.html"
+    },
+    {
+      "sku": "OFC-5219",
+      "path": "catalog/ofc-5219.html"
+    },
+    {
+      "sku": "OFC-6023",
+      "path": "catalog/ofc-6023.html"
+    },
+    {
+      "sku": "OFC-8412",
+      "path": "catalog/ofc-8412.html"
+    },
+    {
+      "sku": "OFC-8630",
+      "path": "catalog/ofc-8630.html"
+    },
+    {
+      "sku": "OFC-1902",
+      "path": "catalog/ofc-1902.html"
+    },
+    {
+      "sku": "OFC-2870",
+      "path": "catalog/ofc-2870.html"
+    },
+    {
+      "sku": "OFC-6450",
+      "path": "catalog/ofc-6450.html"
+    }
+  ],
+  "clearance": [
+    {
+      "sku": "CLR-0091",
+      "path": "clearance/clr-0091.html"
+    },
+    {
+      "sku": "CLR-0144",
+      "path": "clearance/clr-0144.html"
+    },
+    {
+      "sku": "CLR-0210",
+      "path": "clearance/clr-0210.html"
+    }
+  ],
+  "bundles": [
+    {
+      "slug": "home-office-starter",
+      "path": "bundles/home-office-starter.html"
+    },
+    {
+      "slug": "warehouse-refresh",
+      "path": "bundles/warehouse-refresh.html"
+    }
+  ]
+}
